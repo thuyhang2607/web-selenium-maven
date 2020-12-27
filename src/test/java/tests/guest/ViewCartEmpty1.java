@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import tests.BaseTest;
 import utils.Common;
 
-public class ViewCartEmpty extends BaseTest {
+public class ViewCartEmpty1 extends BaseTest {
     @Test
     public void testViewCartEmpty() {
         driver.get("https://www.xuanhanh.vn");
