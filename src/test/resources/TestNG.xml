@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Selenium" verbose="1">
+    <test name="Practice Selenium">
+        <classes>
+            <class name="tests.guest.LoginFail"/>
+            <class name="tests.guest.LoginSuccessfully"/>
+            <class name="tests.guest.SearchProduct"/>
+            <class name="tests.guest.SearchProductNotFound"/>
+            <class name="tests.guest.ViewCartEmpty"/>
+            <class name="tests.guest.UpdatePhoneNumber"/>
+            <class name="tests.guest.OpenFeatureShopee"/>
+            <class name="tests.guest.SearchProductHaveOnList"/>
+            <class name="tests.guest.SearchProductDontHaveOnListProduct"/>
+        </classes>
+    </test>
+</suite>
