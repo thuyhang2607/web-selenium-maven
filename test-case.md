@@ -18,3 +18,13 @@
     3. Tim kiem san pham 'duong da'
     4. Kiem tra text hien thi: "Kết quả tìm kiếm cho từ khoá 'duong da'"
     5. Kiem tra co nhieu element san pham hien thi
+
+#10. Xoa gio hang
+    1. Tim san pham 'duong da'
+    2. Chon 1 san pham dau tien
+    3. Nha'n button 'Them vao gio hang'
+    4. Kiem tra san pham 'Kem dưỡng đa năng Dior Capture Total Dream Skin Advanced 7ml' co trong gio hang
+    5. Nhan button 'Xoa'
+    6. Kiem tra text 0d hien thi
+    
+#11. Chay toan bo test case voi Firefox
